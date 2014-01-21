@@ -1,3 +1,19 @@
+
+1. Set up ruby, rails, git and Heroku
+
+2. Set up a new rails app
+
+3. Update Gemfile to run postgresql in production, but sqlite in development
+
+4. Add a home page and write your name in the html file
+
+5. Store code on Github
+
+6. Deploy it to Heroku
+
+7. Update README on Github to include: link to Heroku page, what you did, and any issues you had (and how you solved them)
+
+
 Heroku Page:
 http://morning-dusk-1532.herokuapp.com/
 
