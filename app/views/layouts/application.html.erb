@@ -1,14 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>HW1</title>
+  <title>Google</title>
   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
 </head>
-<body>
 
+<body>
+<div class="navbar">
+	<ul class="nav">
+		<div id=”right-links”>
+			<li><a class="nav-link" href="https://plus.google.com/">+You</a></li>
+			<li><a class="nav-link" href="https://mail.google.com/">Gmail</a></li>
+			<li><a class="nav-link" href="http://www.google.com/imghp">Images</a></li>
+			<li>
+				<a class="nav-link" href="http://www.google.com/imghp">  
+					<img src="google_app.png" class="app-logo" ></img>
+				</a>
+			</li>
+			<li>
+				<a class="top-button" href="https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/">Sign in</a>
+			</li>
+		</div>
+	</ul>	
+</div>
 <%= yield %>
 
 </body>
 </html>
+
