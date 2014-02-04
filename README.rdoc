@@ -14,6 +14,20 @@ Used the check element on the browsers to find styling information.
 
 Project ideas:
 
+1. What does the fox say
+
+People post a recording of making animal sound. It could be searched by tags and people can vote for the best recordings.
+
+
+2. My roommate is _____
+
+People anonymously post something they want to say about their roommates. Image, video and audio all welcomed. 
+Contents could be searched by tags, and people can comment and like/dislike it.
+
+3. Accent 101
+
+People choose their hometown, and then tell a story about their hometown, childhood and etc and upload the recording. 
+Non-english speaker can also speak in native language and submitted a translation.
 
 
 
