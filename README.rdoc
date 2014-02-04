@@ -1,3 +1,25 @@
+HW2
+
+1. What I did:
+I created a google homepage using html/css. 
+
+Heroku page: http://morning-dusk-1532.herokuapp.com/
+
+2. Problems I had
+Had problem creating footer and navigation bar.
+
+3. How to solve it
+Used the check element on the browsers to find styling information.
+
+
+Project ideas:
+
+
+
+
+
+-------------------------------------------------------------------
+HW1
 
 1. Set up ruby, rails, git and Heroku
 
